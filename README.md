@@ -35,8 +35,10 @@ pip install scikit-learn
 pip install --upgrade tensorflow-hub
 
 ## Results
-![](files/)
-![](files/)  
-![](files/) 
+![](files/res2.png)![](files/res1.png)
+
+The model is able to reach a validation accuracy of 92%
+
+![](files/res3.png) 
 
 
