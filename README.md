@@ -18,14 +18,20 @@ The dataset contain 4 classes- no tumor and 3 different position of brain tumor.
 
 ## Environment and packages
 1.Numpy
+
 2.Pandas
+
 3.Scikit-image
+
 4.Matplotlib
+
 5.Scikit-learn
+
 6.Keras
 
 ## Required installations
 pip install scikit-learn
+
 pip install --upgrade tensorflow-hub
 
 ## Results
