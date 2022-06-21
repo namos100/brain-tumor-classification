@@ -47,7 +47,7 @@ The model is able to reach a validation accuracy of 92%
 ![](files/res3.png) 
 
 ## Hyperparameters Results:
-![](files/hyperPar.png) 
+![](files/hyper.png) 
 
 
 ## Project files:
