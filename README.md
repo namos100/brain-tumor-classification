@@ -46,6 +46,10 @@ The model is able to reach a validation accuracy of 92%
 
 ![](files/res3.png) 
 
+## Hyperparameters Results:
+![](files/hyperPar.png) 
+
+
 ## Project files:
 1. The folder "files"- the results for the readme.
 2. "split.ipynd"- the code to split the download data (to train, test and validation).
