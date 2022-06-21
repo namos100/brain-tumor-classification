@@ -53,5 +53,6 @@ The model is able to reach a validation accuracy of 92%
 ## Project files:
 1. The folder "files"- the results for the readme.
 2. "split.ipynd"- the code to split the download data (to train, test and validation).
-3. "Cbraintumor_net.ipynb"- the tl on the data with predict and results.
+3. "Cbraintumor_net.ipynb"- the NN code notebook .
+4. "HyperParameters.ipyd"- the hyperparameters notebook.
 
