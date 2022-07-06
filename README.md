@@ -67,4 +67,5 @@ The model is able to reach a validation accuracy of 92%
 2. "split.ipynd"- the code to split the download data (to train, test and validation).
 3. "Cbraintumor_net.ipynb"- the NN code notebook .
 4. "HyperParameters.ipyd"- the hyperparameters notebook.
+5. "files_name.txt"- contain the amount and the names of the data images after the split.
 
