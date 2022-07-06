@@ -23,8 +23,11 @@ I split the data as shown:
 
 ![](files/split.png)
 
-so there is:
+with 70% train, 20% test and 10% validation.
 
+The amount of files:
+
+![](files/amount.png)
 
 ## Environment and packages:
 1.Numpy
