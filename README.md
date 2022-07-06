@@ -19,6 +19,9 @@ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?sel
 
 The dataset contain 4 classes- no tumor and 3 different position of brain tumor.
 
+I split the data as shown:
+![](files/split.png)
+
 ## Environment and packages:
 1.Numpy
 
