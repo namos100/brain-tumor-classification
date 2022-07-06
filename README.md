@@ -23,7 +23,7 @@ I split the data as shown:
 
 ![](files/split.png)
 
-with 70% train, 20% test and 10% validation.
+with 80% train, 10% test and 10% validation.
 
 The amount of files:
 
